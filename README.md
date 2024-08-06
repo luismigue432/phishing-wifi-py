@@ -33,3 +33,14 @@ Archivos Generadosserver/ip.txt: Almacena la última dirección IP del cliente q
 # phishing-wifi-py
 # phishing-wifi-py
 # phishing-wifi-py
+#phishing#wifi#cybersecurity
+#flask#python#webdevelopment
+#networking#security
+#ethicalhacking#script
+#termux#android#github#
+python3#php#git#termuxscripts
+#hacking#penetrationtesting
+#cyberattack#informationsecurity
+#networksecurity#securitytesting
+#malware#exploit#vulnerability
+#dataexfiltration#ethicalhacker#hackertools#redteam#blueteam#infosec#securityresearch#bugbounty#pythonsecurity#websecurity#apihacking#scriptkiddie#digitalforensics#rootkits#ransomware#phishingattack#termuxhacks#cyberdefense#dataencryption#wifiattacks#networkanalysis#shellscripting#commandline#pythonproject#coding#opensource#webapps#devsecops#infoseccommunity#ethicalhackingtools#securitytools#penetrationtools#securityscripts#redteaming#networkvulnerability#securityaudit#threatdetection#cyberthreats#pentesttools#attackvectors#networkmonitoring#digitalsecurity#securityresearcher#securityvulnerabilities#networkintrusion#securityexploit#ethicalhackingtips#webpenetration#infosecawareness#ethicalhackercommunity#infosectools#networksecuritytools#webdev#networkdefense#cyberattackers#securityprotocols#pen-testing#cybertools#securityexperts#termuxhacking#securityresearchers#digitalprivacy#securecoding#appsecurity#softwaresecurity#ethicalhacking101#cybersecurityawareness#redteamtools#blue-team-tools#wifiattacks#wifi-security#phishingdefense#networksecurityaudit#vulnerabilityassessment
